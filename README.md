@@ -1,4 +1,4 @@
-                          Hi there , I am Arman Mansoori
+                                  Hi there , I am Arman Mansoori
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-- 👋 Hi, I’m @Arman-glitc
+
 - 👀 I’m interested in devops  ...
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on 
